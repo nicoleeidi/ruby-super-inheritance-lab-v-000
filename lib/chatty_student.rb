@@ -16,5 +16,6 @@ class chatty_student < Student
     super
     super
     super
+  end
 
 end
